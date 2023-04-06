@@ -1,0 +1,2 @@
+# sui-sdk
+Golang SDK
