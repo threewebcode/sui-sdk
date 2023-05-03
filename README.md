@@ -1,2 +1,2 @@
-# sui-sdk
-Golang SDK
+
+# Typescript module
